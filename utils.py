@@ -12,14 +12,14 @@ charclassnames = ['0','9','b','d','ein','ein','g','gh','h','n','s','1','malul','
 
 
 def _display_detected_frames(conf, model_object, model_char, st_count, st_frame, image):q
-    """
-    Display the detected objects on a video frame using the YOLOv8 model.
-    :param conf (float): Confidence threshold for object detection.
-    :param model (YOLOv8): An instance of the `YOLOv8` class containing the YOLOv8 model.
-    :param st_frame (Streamlit object): A Streamlit object to display the detected video.
-    :param image (numpy array): A numpy array representing the video frame.
-    :return: None
-    """
+    # """
+    # Display the detected objects on a video frame using the YOLOv8 model.
+    # :param conf (float): Confidence threshold for object detection.
+    # :param model (YOLOv8): An instance of the `YOLOv8` class containing the YOLOv8 model.
+    # :param st_frame (Streamlit object): A Streamlit object to display the detected video.
+    # :param image (numpy array): A numpy array representing the video frame.
+    # :return: None
+    # """
     # Resize the image to a standard size
     #image = cv2.resize(image, (720, int(720 * (9 / 16))))
 

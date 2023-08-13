@@ -11,7 +11,7 @@ charclassnames = ['0','9','b','d','ein','ein','g','gh','h','n','s','1','malul','
 
 
 
-def _display_detected_frames(conf, model_object, model_char, st_count, st_frame, image):q
+def _display_detected_frames(conf, model_object, model_char, st_count, st_frame, image):
     # """
     # Display the detected objects on a video frame using the YOLOv8 model.
     # :param conf (float): Confidence threshold for object detection.

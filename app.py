@@ -6,18 +6,21 @@ from utils import load_model, infer_uploaded_image, infer_uploaded_video, infer_
 
 # setting page layout
 st.set_page_config(
-    page_title="Persian Plate Recognition",
+    page_title="AI-LAB:Persian Plate Recognition",
     page_icon="🤖",
     layout="wide",
     initial_sidebar_state="expanded"
     )
 
 # main page heading
-st.title("Persian Plate Recognition")
+st.title("AI-Lab: Persian Plate Recognition")
+with st.sidebar:
+        "Created By: Samrand Majnooni"
 
 # sidebar
-st.sidebar.header("DL Model Config")
+st.sidebar.image("Picture1.png")
 
+st.sidebar.header("DL Model Config")
 # model options
 task_type = st.sidebar.selectbox(
     "Select Task",

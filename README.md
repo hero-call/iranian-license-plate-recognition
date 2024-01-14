@@ -4,9 +4,9 @@
 ## $\textcolor{red}{This\ product\ train\ with\ 20\ epoch\ and\ limited\ dataset\}$
 
 ## Tools:
-OpenCV
-Yolo V8
-ocr
+- OpenCV
+- Yolo V8
+- ocr
 
 
 ## **How run the Web Application:**    

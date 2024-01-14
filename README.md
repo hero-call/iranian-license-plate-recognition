@@ -1,5 +1,7 @@
 # iranian-license-plate-recognition
-## <span style="color: red;">This product train with 20 epoch and limited dataset</span>
+
+## $\color{green}{ This product train with 20 epoch and limited dataset}$
+
 OpenCV
 Yolo V*
 

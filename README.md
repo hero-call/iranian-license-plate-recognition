@@ -1,7 +1,7 @@
 # iranian-license-plate-recognition
 
 
-## $\textcolor{red}{This\ product\ train\ with\ 20\ epoch\ and\ limited\ dataset\}$
+## $\textcolor{red}{This\ product\ train\ with\ 20\ epochs\ and\ limited\ dataset\}$
 
 ## Tools:
 - OpenCV

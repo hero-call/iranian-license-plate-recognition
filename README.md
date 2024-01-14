@@ -1,5 +1,7 @@
 # iranian-license-plate-recognition
-## This is limited product
+## <span style="color: red;">This product train with 20 epoch and limited dataset</span>
+OpenCV
+Yolo V*
 
 
 ## **How run the Web Application:**    

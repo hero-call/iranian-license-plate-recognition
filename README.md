@@ -4,5 +4,7 @@
 
 ## **How run the Web Application:**    
 ### step1: install requirements library and tools:
-```bash
-pip install requirements.txt
+  ```bash
+  pip install requirements.txt
+
+### step2:
